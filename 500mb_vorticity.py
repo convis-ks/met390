@@ -138,3 +138,5 @@ ax.barbs(lons[wind_slice], lats[wind_slice],
 plt.title('500-hPa NAM Geopotential Heights (m)'
           ' and Wind Barbs (kt)', loc='left')
 plt.title(f'Valid Time: {vtime}', loc='right')
+
+## original : https://creativecommons.org/licenses/by/4.0/ ##
