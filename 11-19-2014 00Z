@@ -54,7 +54,7 @@ skew.ax.set_ylabel('Pressure (hPa)',   fontweight='bold', fontsize=13)
 skew.ax.set_ylim(1000, 100)
 skew.ax.grid(True)
  
-plt.title("Buffalo (KBUF)  |  23 December 2023  12 UTC",
+plt.title("Buffalo (KBUF)  |  19 November 2014  00 UTC",
           fontweight='bold', fontsize=11)
  
 plt.savefig('skewt_KBUF_20231223_12Z.png', dpi=300, bbox_inches='tight')
